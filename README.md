@@ -1,3 +1,5 @@
+A simple Neural Network but Created without ANY external ML Libraries. such as Tensorflow or Pytorch
+
 To run the Neural Network run "App.java"
 Then after that to test it out go and execute "ImageWriter.java"
 
